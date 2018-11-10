@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <ThreeScene />
+        <p className="badge badge-sm badge-primary">asda</p>
       </React.Fragment>
     );
   }
