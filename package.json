@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "description": "A basic template for building apps with React.js, Electron, Parcel Bundler and Three.js",
   "author": "Daniel Fernandes",
-  "homepage": "https://github.com/Carnaux/react-electron-parcel-three-",
+  "homepage": "https://github.com/Carnaux/react-electron-parcel-three",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Carnaux/react-electron-parcel-three-.git"
+    "url": "https://github.com/Carnaux/react-electron-parcel-three.git"
   },
   "bugs": {
-    "url": "https://github.com/Carnaux/react-electron-parcel-three-/issues"
+    "url": "https://github.com/Carnaux/react-electron-parcel-three/issues"
   },
   "license": "MIT",
   "main": "main.js",
