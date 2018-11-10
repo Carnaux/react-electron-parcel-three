@@ -1,7 +1,13 @@
 # React + Electron + Parcel + Three
 ##### A basic template for building apps with React.js, Electron, Parcel Bundler and Three.js
 
-###### Source: https://github.com/karzanosman/electron-react-parcel-boilerplate
+###### Sources: 
+
+###### https://github.com/karzanosman/electron-react-parcel-boilerplate
+
+###### and
+
+###### https://medium.com/@colesayershapiro/using-three-js-in-react-6cb71e87bdf4
 
 # How to install:
 
