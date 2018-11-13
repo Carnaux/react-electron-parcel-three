@@ -14,3 +14,14 @@
 1. clone this repository https://github.com/Carnaux/react-electron-parcel-three.git
 2. run 'npm install'
 3. and open the app with 'npm run dev'
+
+
+# Issues and Bugs:
+
+1. Input tags and other elements not working properly
+
+
+
+# Solutions:
+
+1. 
