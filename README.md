@@ -24,4 +24,4 @@
 
 # Solutions:
 
-1. 
+1. https://github.com/Carnaux/react-electron-parcel-three/wiki/Issues---1
