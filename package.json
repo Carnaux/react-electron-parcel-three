@@ -27,7 +27,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "concurrently": "^3.6.1",
-    "electron": "^2.0.7",
+    "electron": "^9.1.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   },
